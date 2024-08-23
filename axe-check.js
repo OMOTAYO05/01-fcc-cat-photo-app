@@ -49,7 +49,6 @@ async function runAccessibilityCheck() {
   }
   fs.writeFileSync('accessibility_report.md', report, 'utf8');
   console.log('Accessibility report generated.');
-  
 }
 
 runAccessibilityCheck();
