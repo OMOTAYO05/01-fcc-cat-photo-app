@@ -1,16 +1,22 @@
 # Project Name
 
-> One paragraph statement about the project.
+> A CAT PHOTO APP BUILT USING HTML.
 
-![screenshot](./app_screenshot.png)
+![01-fcc-cat-photo-app](https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 elements
+- Ordered list `<ol>`,
+  - Unordered list `<ul>`,
+  - `section`, `form`, `main`, `footer`,`figcaption`,`legend`,`label`,
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/),
+
+- Github Action
 
 ## Live Demo
 
