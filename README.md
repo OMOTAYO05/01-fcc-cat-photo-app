@@ -13,6 +13,7 @@ Additional description of the project and its features.
   - Unordered list `<ul>`,
   - `section`, `form`, `main`, `footer`,`figcaption`,`legend`,`label`,
 - Linters
+
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
 
