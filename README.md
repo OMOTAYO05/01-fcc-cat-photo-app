@@ -2,18 +2,18 @@
 
 > A CAT PHOTO APP BUILT USING HTML.
 
-![01-fcc-cat-photo-app](https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg)
+
+![01-fcc-cat-photo-app](app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
 - HTML5 elements
-- Ordered list `<ol>`,
-  - Unordered list `<ul>`,
-  - `section`, `form`, `main`, `footer`,`figcaption`,`legend`,`label`,
+ - Ordered list `<ol>`,
+ - Unordered list `<ul>`,
+ - `section`, `form`, `main`, `footer`,`figcaption`,`legend`,`label`,
 - Linters
-
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/),
 
@@ -21,7 +21,7 @@ Additional description of the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Deployment Link](https://vercel.com/onikosi-omotayo-eniolas-projects/01-fcc-cat-photo-app-ijqc)
 
 ### Development (Running locally)
 
