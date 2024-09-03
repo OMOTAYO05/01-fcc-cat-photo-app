@@ -1,4 +1,4 @@
-# Project Name
+# 01-FCC-CAT-PHOTO-APP
 
 > A CAT PHOTO APP BUILT USING HTML.
 
